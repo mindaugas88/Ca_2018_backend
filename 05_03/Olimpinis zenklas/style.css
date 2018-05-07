@@ -1,0 +1,46 @@
+.pirmas{
+    border: black solid 6px;
+    border-radius: 50%;
+    width: 100px;
+    min-height: 100px;
+    position: absolute;
+ 
+}
+.antras{
+    border: black solid 6px;
+    border-radius: 50%;
+    width: 100px;
+    min-height: 100px;
+    position: absolute;
+ 
+    margin-left: 4%;
+}
+.trecias{
+    border: black solid 6px;
+    border-radius: 50%;
+    width: 100px;
+    min-height: 100px;
+    position: absolute;
+ 
+    margin-left: 8%;
+}
+.ketvirtas{
+    border: yellow solid 6px;
+    border-radius: 50%;
+    width: 100px;
+    min-height: 100px;
+    position: absolute;
+ 
+    margin-left: 6%;
+    margin-top:3.5%;
+}
+.penktas{
+    border: red solid 6px;
+    border-radius: 50%;
+    width: 100px;
+    min-height: 100px;
+    position: absolute;
+ 
+    margin-left:2.5%;
+    margin-top:3.5%;
+ }

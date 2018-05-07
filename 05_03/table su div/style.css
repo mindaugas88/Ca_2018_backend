@@ -1,0 +1,13 @@
+.table{
+    display: table;
+    
+}
+.row{
+    display: table-row;
+}
+.cell{
+    display: table-cell;
+    border: 1px solid red;
+    padding: 5px;
+    vertical-align: middle;
+}
